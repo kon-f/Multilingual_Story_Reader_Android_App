@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+
+    <!-- Welcome messages -->
+    <string name="welcome_message">Welcome! Please select your language:</string>
+    <string name="welcome_message_gr">Καλώς ήρθατε! Παρακαλώ επιλέξτε τη γλώσσα σας:</string>
+    <string name="welcome_message_fr">Bienvenue! Veuillez sélectionner votre langue :</string>
+
+    <string name="continue_button">Continue</string>
+    <string name="continue_button_gr">Συνέχεια</string>
+    <string name="continue_button_fr">Continuer</string>
+
+    <!-- Story Buttons -->
+    <string name="play_button">Play</string>
+    <string name="play_button_gr">Αναπαραγωγή</string>
+    <string name="play_button_fr">Jouer</string>
+
+    <string name="stop_button">Stop</string>
+    <string name="stop_button_gr">Διακοπή</string>
+    <string name="stop_button_fr">Arrêter</string>
+
+    <!-- Labels -->
+    <string name="title_label">Title</string>
+    <string name="author_label">Author</string>
+    <string name="year_label">Year</string>
+
+    <string name="title_label_gr">Τίτλος</string>
+    <string name="author_label_gr">Συγγραφέας</string>
+    <string name="year_label_gr">Έτος</string>
+
+    <string name="title_label_fr">Titre</string>
+    <string name="author_label_fr">Auteur</string>
+    <string name="year_label_fr">Année</string>
+
+    <string name="statistics_header">Story Read Statistics</string>
+    <string name="num_read_label">Times Read</string>
+    <string name="statistics_header_gr">Στατιστικά Αναγνώσεων Ιστοριών</string>
+    <string name="num_read_label_gr">Φορές Αναγνώστηκε</string>
+    <string name="statistics_header_fr">Statistiques de Lecture</string>
+    <string name="num_read_label_fr">Nombre de Lectures</string>
+
+    <string name="unknown_title">Unknown Title</string>
+
+
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Ελληνικά</item>
+        <item>Français</item>
+    </string-array>
+</resources>
