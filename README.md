@@ -145,7 +145,7 @@ private Locale getLocaleForLanguage(String language) {
 
 ## 🧰 Building the Project Locally
 
-To successfully build and run the project on your machine:
+To successfully build and run the project on your machine the appropriate Firebase collection is necessary. To run the app:
 
 1. Install Android Studio with the latest SDK tools.
 
