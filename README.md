@@ -1,6 +1,6 @@
 # 📖 Multilingual Story Reader Android App
 
-This Android application enables users to read historical stories in multiple languages (Greek, French, and English), track reading statistics, and listen to story narrations using text-to-speech.
+This Android application enables users to read famous fairytales in multiple languages (Greek, French, and English), track reading statistics, and listen to story narrations using text-to-speech.
 
 ---
 
