@@ -109,37 +109,37 @@ private Locale getLocaleForLanguage(String language) {
 
 ### 🌐 Language Selection
 - English  
-  ![Language EN](screenshots/1_lang_en.png)
+  ![Language EN](Screenshots/1_lang_en.png)
 - Greek  
-  ![Language GR](screenshots/1_lang_gr.png)
+  ![Language GR](Screenshots/1_lang_gr.png)
 
 ### 📋 Main Menu
 - English  
-  ![Main Menu EN](screenshots/3_mainMenu_EN.png)
+  ![Main Menu EN](Screenshots/3_mainMenu_EN.png)
 - French  
-  ![Main Menu FR](screenshots/3_mainMenu_FR.png)
+  ![Main Menu FR](Screenshots/3_mainMenu_FR.png)
 
 ### 📖 Story Page
 - English  
-  ![Story EN](screenshots/4_story_EN.png)
+  ![Story EN](Screenshots/4_story_EN.png)
 
 ### 📊 Statistics
 - English  
-  ![Statistics EN](screenshots/5_statistics_EN.png)
+  ![Statistics EN](Screenshots/5_statistics_EN.png)
 - Greek  
-  ![Statistics GR](screenshots/5_statistics_GR.png)
+  ![Statistics GR](Screenshots/5_statistics_GR.png)
 
 ### 📱 Medium Tablet Views
 - Tablet View 1  
-  ![Tablet 1](screenshots/6_medium_tablet_1.png)
+  ![Tablet 1](Screenshots/6_medium_tablet_1.png)
 - Tablet View 2  
-  ![Tablet 2](screenshots/6_medium_tablet_2.png)
+  ![Tablet 2](Screenshots/6_medium_tablet_2.png)
 - Tablet View 3  
-  ![Tablet 3](screenshots/6_medium_tablet_3.png)
+  ![Tablet 3](Screenshots/6_medium_tablet_3.png)
 - Tablet View 4  
-  ![Tablet 4](screenshots/6_medium_tablet_4.png)
+  ![Tablet 4](Screenshots/6_medium_tablet_4.png)
 - Tablet View 5  
-  ![Tablet 5](screenshots/6_medium_tablet_5.png)
+  ![Tablet 5](Screenshots/6_medium_tablet_5.png)
 
 ---
 
