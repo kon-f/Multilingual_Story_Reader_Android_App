@@ -145,7 +145,7 @@ private Locale getLocaleForLanguage(String language) {
 
 ## 🧰 Building the Project Locally
 
-To successfully build and run the project on your machine the appropriate Firebase collection is necessary. To run the app:
+To successfully build and run the project on your machine the appropriate Firebase collections are necessary. To run the app:
 
 1. Install Android Studio with the latest SDK tools.
 
@@ -172,3 +172,27 @@ app/google-services.json
 ```
 
 5. Sync Gradle and run the app on an emulator or device.
+
+## Firestore Database schema
+
+2 collections: statistics and stories
+```
+statistics 
+├── story_1
+│   ├── num_read
+│   ├── story_id (reference to stories collection)
+├── story_1FR
+│   ├── num_read
+│   ├── story_id (reference to stories collection)
+├── story_1GR
+│   ├── num_read
+│   ├── story_id (reference to stories collection)
+
+stories 
+├── document_ID (Auto-ID)
+│   ├── author
+│   ├── content
+│   ├── imageName
+│   ├── language 
+│   ├── title
+│   ├── year
