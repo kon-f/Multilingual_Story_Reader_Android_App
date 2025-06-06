@@ -129,7 +129,7 @@ private Locale getLocaleForLanguage(String language) {
 - Greek  
   ![Statistics GR](Screenshots/5_statistics_GR.png)
 
-### 📱 Medium Tablet Views
+### 📱 Medium Tablet Views to ensure UI is not altered across devices
 - Tablet View 1  
   ![Tablet 1](Screenshots/6_medium_tablet_1.png)
 - Tablet View 2  
