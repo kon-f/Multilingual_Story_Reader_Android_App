@@ -152,7 +152,7 @@ To successfully build and run the project on your machine the appropriate Fireba
 2. Clone the project:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/kon-f/Multilingual_Story_Reader_Android_App
 cd your-repo
 ```
 
