@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
 ![Language](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
 ![IDE](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?logo=androidstudio)
-![Database](https://img.shields.io/badge/Backend-Firebase-yellow?logo=firebase)
+![Database](https://img.shields.io/badge/Database-Firestore-yellow?logo=firebase)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
