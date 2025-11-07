@@ -1,4 +1,10 @@
 # 📖 Multilingual Story Reader Android App
+![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
+![Language](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
+![IDE](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?logo=androidstudio)
+![Database](https://img.shields.io/badge/Backend-Firebase-yellow?logo=firebase)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 This Android application enables users to read famous fairytales in multiple languages (Greek, French, and English), track reading statistics, and listen to story narrations using text-to-speech.
 
